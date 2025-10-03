@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>CodepoetMedia.com</title>
-    <link href="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/feed.xml" rel="self" />
-    <link href="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview" />
+    <link href="https://codepoetmedia.github.io/codepoetmedia-website/feed.xml" rel="self" />
+    <link href="https://codepoetmedia.github.io/codepoetmedia-website" />
     <updated>2025-10-02T21:15:43-03:00</updated>
     <author>
         <name>Kent Bulmer</name>
     </author>
-    <id>file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview</id>
+    <id>https://codepoetmedia.github.io/codepoetmedia-website</id>
 
     <entry>
         <title>Thanks For Coming!</title>
         <author>
             <name>Kent Bulmer</name>
         </author>
-        <link href="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/thanks-for-coming/index.html"/>
-        <id>file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/thanks-for-coming/index.html</id>
-        <media:content url="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/3/ThanksForComing-Thumbnail.jpg" medium="image" />
+        <link href="https://codepoetmedia.github.io/codepoetmedia-website/thanks-for-coming/"/>
+        <id>https://codepoetmedia.github.io/codepoetmedia-website/thanks-for-coming/</id>
+        <media:content url="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/ThanksForComing-Thumbnail.jpg" medium="image" />
             <category term="The Coffee Café"/>
 
         <updated>2022-12-11T14:30:00-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/3/ThanksForComing-Thumbnail.jpg" alt="" />
+                        <img src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/ThanksForComing-Thumbnail.jpg" alt="" />
                     Ann (with no ‘e’) is all business keeping her studio running with the help of Summer and Charlotte. Steve and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/3/ThanksForComing-Thumbnail.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/ThanksForComing-Thumbnail.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     Ann (with no ‘e’) is all business keeping her studio running with the help of Summer and Charlotte. Steve and Yves want to figure out what makes their studio work so well.
@@ -40,7 +40,7 @@
 
     <figure class="post__image post__image--center">
       <a href="https://filmfreeway.com/ThanksForComing-CoffeeCafe" target="_blank">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/viewonfilmfreeway.jpg" height="42" width="222" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/responsive/viewonfilmfreeway-xs.jpg 384w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/responsive/viewonfilmfreeway-sm.jpg 600w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/responsive/viewonfilmfreeway-md.jpg 768w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/responsive/viewonfilmfreeway-lg.jpg 1200w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/responsive/viewonfilmfreeway-xl.jpg 1600w">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/viewonfilmfreeway.jpg" height="42" width="222" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/responsive/viewonfilmfreeway-xs.jpg 384w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/responsive/viewonfilmfreeway-sm.jpg 600w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/responsive/viewonfilmfreeway-md.jpg 768w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/responsive/viewonfilmfreeway-lg.jpg 1200w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/responsive/viewonfilmfreeway-xl.jpg 1600w">
       </a>
       
     </figure>
@@ -70,14 +70,14 @@
 
     <figure class="post__image post__image--center">
       <a href="https://afx.eventive.org/films/64431e2873815100494e2dea" target="_blank">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/afx12_title_card_with_logos.png" height="563" width="1000" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/responsive/afx12_title_card_with_logos-xs.png 384w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/responsive/afx12_title_card_with_logos-sm.png 600w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/responsive/afx12_title_card_with_logos-md.png 768w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/responsive/afx12_title_card_with_logos-lg.png 1200w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/responsive/afx12_title_card_with_logos-xl.png 1600w">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/afx12_title_card_with_logos.png" height="563" width="1000" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/responsive/afx12_title_card_with_logos-xs.png 384w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/responsive/afx12_title_card_with_logos-sm.png 600w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/responsive/afx12_title_card_with_logos-md.png 768w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/responsive/afx12_title_card_with_logos-lg.png 1200w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/responsive/afx12_title_card_with_logos-xl.png 1600w">
       </a>
       <figcaption>Featured at the Animation Festival of Halifax</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
       <a href="https://afx.eventive.org/films/64431e2873815100494e2dea" target="_blank">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/SilverwaveLaurel.png" height="800" width="800" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/responsive/SilverwaveLaurel-xs.png 384w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/responsive/SilverwaveLaurel-sm.png 600w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/responsive/SilverwaveLaurel-md.png 768w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/responsive/SilverwaveLaurel-lg.png 1200w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/responsive/SilverwaveLaurel-xl.png 1600w">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/SilverwaveLaurel.png" height="800" width="800" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/responsive/SilverwaveLaurel-xs.png 384w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/responsive/SilverwaveLaurel-sm.png 600w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/responsive/SilverwaveLaurel-md.png 768w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/responsive/SilverwaveLaurel-lg.png 1200w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/responsive/SilverwaveLaurel-xl.png 1600w">
       </a>
       <figcaption>Featured at the 2023 SilverWave Film Festival</figcaption>
     </figure>
@@ -85,38 +85,38 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/gallery/EmmaRudyCharacter-2.jpg" data-size="500x500">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/gallery/EmmaRudyCharacter-2-thumbnail.jpg" height="500" width="500" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/gallery/EmmaRudyCharacter-2.jpg" data-size="500x500">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/gallery/EmmaRudyCharacter-2-thumbnail.jpg" height="500" width="500" alt="" >
       </a>
       <figcaption>Emma Rudy as Ann, Charlotte, and Summer</figcaption>
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/gallery/roland-2.jpg" data-size="220x200">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/gallery/roland-2-thumbnail.jpg" height="200" width="220" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/gallery/roland-2.jpg" data-size="220x200">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/gallery/roland-2-thumbnail.jpg" height="200" width="220" alt="" >
       </a>
       <figcaption>Roland Savoie as Yves</figcaption>
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/gallery/kent-2.jpg" data-size="220x200">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/gallery/kent-2-thumbnail.jpg" height="200" width="220" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/gallery/kent-2.jpg" data-size="220x200">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/gallery/kent-2-thumbnail.jpg" height="200" width="220" alt="" >
       </a>
       <figcaption>Kent Bulmer as Steve</figcaption>
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/gallery/vlcsnap-2022-10-27-13h51m29s017-1-1024x580-1-2.png" data-size="1024x580">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/gallery/vlcsnap-2022-10-27-13h51m29s017-1-1024x580-1-2-thumbnail.png" height="435" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/gallery/vlcsnap-2022-10-27-13h51m29s017-1-1024x580-1-2.png" data-size="1024x580">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/gallery/vlcsnap-2022-10-27-13h51m29s017-1-1024x580-1-2-thumbnail.png" height="435" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/gallery/vlcsnap-2022-10-19-17h25m02s123-1024x580-1-2.png" data-size="1024x580">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/gallery/vlcsnap-2022-10-19-17h25m02s123-1024x580-1-2-thumbnail.png" height="435" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/gallery/vlcsnap-2022-10-19-17h25m02s123-1024x580-1-2.png" data-size="1024x580">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/gallery/vlcsnap-2022-10-19-17h25m02s123-1024x580-1-2-thumbnail.png" height="435" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/gallery/vlcsnap-2022-10-19-17h13m40s327-1024x580-1-2.png" data-size="1024x580">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/gallery/vlcsnap-2022-10-19-17h13m40s327-1024x580-1-2-thumbnail.png" height="435" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/gallery/vlcsnap-2022-10-19-17h13m40s327-1024x580-1-2.png" data-size="1024x580">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/gallery/vlcsnap-2022-10-19-17h13m40s327-1024x580-1-2-thumbnail.png" height="435" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/gallery/vlcsnap-2022-10-19-17h12m47s905-1024x580-1-2.png" data-size="1024x580">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/3/gallery/vlcsnap-2022-10-19-17h12m47s905-1024x580-1-2-thumbnail.png" height="435" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/gallery/vlcsnap-2022-10-19-17h12m47s905-1024x580-1-2.png" data-size="1024x580">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/3/gallery/vlcsnap-2022-10-19-17h12m47s905-1024x580-1-2-thumbnail.png" height="435" width="768" alt="" >
       </a>
       
     </figure>
@@ -130,21 +130,21 @@
         <author>
             <name>Kent Bulmer</name>
         </author>
-        <link href="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/on-location-with-scotty-and-tony/index.html"/>
-        <id>file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/on-location-with-scotty-and-tony/index.html</id>
-        <media:content url="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/4/OnLocation-YouTube-Thumbnail.jpg" medium="image" />
+        <link href="https://codepoetmedia.github.io/codepoetmedia-website/on-location-with-scotty-and-tony/"/>
+        <id>https://codepoetmedia.github.io/codepoetmedia-website/on-location-with-scotty-and-tony/</id>
+        <media:content url="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/4/OnLocation-YouTube-Thumbnail.jpg" medium="image" />
             <category term="The Coffee Café"/>
 
         <updated>2020-09-24T13:37:00-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/4/OnLocation-YouTube-Thumbnail.jpg" alt="" />
+                        <img src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/4/OnLocation-YouTube-Thumbnail.jpg" alt="" />
                     Steve strikes a deal with Scotty and Tony to help promote his latest product. It’s all laughs as Scotty Horsman&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/4/OnLocation-YouTube-Thumbnail.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/4/OnLocation-YouTube-Thumbnail.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     Steve strikes a deal with Scotty and Tony to help promote his latest product. It’s all laughs as Scotty Horsman and Tony Smith join the fun at the café.
@@ -152,7 +152,7 @@
 
     <figure class="post__image post__image--center">
       <a href="https://filmfreeway.com/projects/2121547" target="_blank">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/4/viewonfilmfreeway.jpg" height="42" width="222" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/4/responsive/viewonfilmfreeway-xs.jpg 384w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/4/responsive/viewonfilmfreeway-sm.jpg 600w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/4/responsive/viewonfilmfreeway-md.jpg 768w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/4/responsive/viewonfilmfreeway-lg.jpg 1200w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/4/responsive/viewonfilmfreeway-xl.jpg 1600w">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/4/viewonfilmfreeway.jpg" height="42" width="222" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/4/responsive/viewonfilmfreeway-xs.jpg 384w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/4/responsive/viewonfilmfreeway-sm.jpg 600w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/4/responsive/viewonfilmfreeway-md.jpg 768w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/4/responsive/viewonfilmfreeway-lg.jpg 1200w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/4/responsive/viewonfilmfreeway-xl.jpg 1600w">
       </a>
       
     </figure>
@@ -163,7 +163,7 @@
     </h2>
 
   <ul>
-    <li>Series : <a href="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/tags/the-coffee-cafe/index.html">The Coffee Café</a></li><li>Story &amp; Animation : <a href="https://linktr.ee/kent.bulmer" target="_blank">Kent Bulmer</a></li><li>Special Guests: <a href="http://scottyandtony.com/" target="_blank">Scotty Horsman &amp; Tony Smith</a></li><li>Video : <a href="http://bustwenty.com/" target="_blank">Bus Twenty Studios</a></li><li>Audio : CheckPoint Studio</li><li>Released : September 24, 2020<br></li>
+    <li>Series : <a href="https://codepoetmedia.github.io/codepoetmedia-website/tags/the-coffee-cafe/">The Coffee Café</a></li><li>Story &amp; Animation : <a href="https://linktr.ee/kent.bulmer" target="_blank">Kent Bulmer</a></li><li>Special Guests: <a href="http://scottyandtony.com/" target="_blank">Scotty Horsman &amp; Tony Smith</a></li><li>Video : <a href="http://bustwenty.com/" target="_blank">Bus Twenty Studios</a></li><li>Audio : CheckPoint Studio</li><li>Released : September 24, 2020<br></li>
   </ul>
 
     <h2 id="behind-the-scenes">
@@ -182,23 +182,23 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/4/gallery/afx-logo.png" data-size="1835x267">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/4/gallery/afx-logo-thumbnail.png" height="112" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/4/gallery/afx-logo.png" data-size="1835x267">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/4/gallery/afx-logo-thumbnail.png" height="112" width="768" alt="" >
       </a>
       <figcaption>Animation Festival of Halifax</figcaption>
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/4/gallery/CharlottetownFilmFestival-Laurel.png" data-size="1080x620">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/4/gallery/CharlottetownFilmFestival-Laurel-thumbnail.png" height="441" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/4/gallery/CharlottetownFilmFestival-Laurel.png" data-size="1080x620">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/4/gallery/CharlottetownFilmFestival-Laurel-thumbnail.png" height="441" width="768" alt="" >
       </a>
       <figcaption>Charlottetown Film Festival</figcaption>
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/4/gallery/300SecondsLaurel.png" data-size="1500x1500">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/4/gallery/300SecondsLaurel-thumbnail.png" height="768" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/4/gallery/300SecondsLaurel.png" data-size="1500x1500">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/4/gallery/300SecondsLaurel-thumbnail.png" height="768" width="768" alt="" >
       </a>
       <figcaption>100 Seconds Short Film Festival</figcaption>
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/4/gallery/SWFF_Laurel_Leaves2.jpg" data-size="1800x1302">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/4/gallery/SWFF_Laurel_Leaves2-thumbnail.jpg" height="556" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/4/gallery/SWFF_Laurel_Leaves2.jpg" data-size="1800x1302">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/4/gallery/SWFF_Laurel_Leaves2-thumbnail.jpg" height="556" width="768" alt="" >
       </a>
       <figcaption>Silver Wave Film Festival</figcaption>
     </figure>
@@ -212,21 +212,21 @@
         <author>
             <name>Kent Bulmer</name>
         </author>
-        <link href="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/the-red-hat-session/index.html"/>
-        <id>file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/the-red-hat-session/index.html</id>
-        <media:content url="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/5/The-Red-Hat-Session-Thumbnail.jpg" medium="image" />
+        <link href="https://codepoetmedia.github.io/codepoetmedia-website/the-red-hat-session/"/>
+        <id>https://codepoetmedia.github.io/codepoetmedia-website/the-red-hat-session/</id>
+        <media:content url="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/The-Red-Hat-Session-Thumbnail.jpg" medium="image" />
             <category term="The Coffee Café"/>
 
         <updated>2019-10-24T14:04:00-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/5/The-Red-Hat-Session-Thumbnail.jpg" alt="" />
+                        <img src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/The-Red-Hat-Session-Thumbnail.jpg" alt="" />
                     Travis Furlong plays a set at the Coffee Café — but he has trouble playing after losing his red hat.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/5/The-Red-Hat-Session-Thumbnail.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/The-Red-Hat-Session-Thumbnail.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     Travis Furlong plays a set at the Coffee Café — but he has trouble playing after losing his red hat.
@@ -234,7 +234,7 @@
 
     <figure class="post__image post__image--center">
       <a href="https://filmfreeway.com/projects/2191318" target="_blank">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/5/viewonfilmfreeway.jpg" height="42" width="222" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/5/responsive/viewonfilmfreeway-xs.jpg 384w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/5/responsive/viewonfilmfreeway-sm.jpg 600w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/5/responsive/viewonfilmfreeway-md.jpg 768w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/5/responsive/viewonfilmfreeway-lg.jpg 1200w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/5/responsive/viewonfilmfreeway-xl.jpg 1600w">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/viewonfilmfreeway.jpg" height="42" width="222" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/responsive/viewonfilmfreeway-xs.jpg 384w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/responsive/viewonfilmfreeway-sm.jpg 600w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/responsive/viewonfilmfreeway-md.jpg 768w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/responsive/viewonfilmfreeway-lg.jpg 1200w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/responsive/viewonfilmfreeway-xl.jpg 1600w">
       </a>
       
     </figure>
@@ -252,43 +252,43 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/5/gallery/Coffee-Cafe-Poster-Travis-Furlong-1024x819-1.jpg" data-size="1024x819">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/5/gallery/Coffee-Cafe-Poster-Travis-Furlong-1024x819-1-thumbnail.jpg" height="614" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/gallery/Coffee-Cafe-Poster-Travis-Furlong-1024x819-1.jpg" data-size="1024x819">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/gallery/Coffee-Cafe-Poster-Travis-Furlong-1024x819-1-thumbnail.jpg" height="614" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/5/gallery/DSC_0019-681x1024-1.jpg" data-size="681x1024">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/5/gallery/DSC_0019-681x1024-1-thumbnail.jpg" height="1024" width="681" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/gallery/DSC_0019-681x1024-1.jpg" data-size="681x1024">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/gallery/DSC_0019-681x1024-1-thumbnail.jpg" height="1024" width="681" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/5/gallery/DSC_0038-681x1024-1.jpg" data-size="681x1024">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/5/gallery/DSC_0038-681x1024-1-thumbnail.jpg" height="1024" width="681" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/gallery/DSC_0038-681x1024-1.jpg" data-size="681x1024">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/gallery/DSC_0038-681x1024-1-thumbnail.jpg" height="1024" width="681" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/5/gallery/DSC_0061-681x1024-1.jpg" data-size="681x1024">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/5/gallery/DSC_0061-681x1024-1-thumbnail.jpg" height="1024" width="681" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/gallery/DSC_0061-681x1024-1.jpg" data-size="681x1024">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/gallery/DSC_0061-681x1024-1-thumbnail.jpg" height="1024" width="681" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/5/gallery/DSC_0065-681x1024-1.jpg" data-size="681x1024">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/5/gallery/DSC_0065-681x1024-1-thumbnail.jpg" height="1024" width="681" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/gallery/DSC_0065-681x1024-1.jpg" data-size="681x1024">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/gallery/DSC_0065-681x1024-1-thumbnail.jpg" height="1024" width="681" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/5/gallery/DSC_0081-681x1024-1.jpg" data-size="681x1024">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/5/gallery/DSC_0081-681x1024-1-thumbnail.jpg" height="1024" width="681" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/gallery/DSC_0081-681x1024-1.jpg" data-size="681x1024">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/gallery/DSC_0081-681x1024-1-thumbnail.jpg" height="1024" width="681" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/5/gallery/DSC_0090-681x1024-1.jpg" data-size="681x1024">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/5/gallery/DSC_0090-681x1024-1-thumbnail.jpg" height="1024" width="681" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/gallery/DSC_0090-681x1024-1.jpg" data-size="681x1024">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/gallery/DSC_0090-681x1024-1-thumbnail.jpg" height="1024" width="681" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/5/gallery/DSC_0095.jpg" data-size="1000x665">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/5/gallery/DSC_0095-thumbnail.jpg" height="511" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/gallery/DSC_0095.jpg" data-size="1000x665">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/5/gallery/DSC_0095-thumbnail.jpg" height="511" width="768" alt="" >
       </a>
       
     </figure>
@@ -306,21 +306,21 @@
         <author>
             <name>Kent Bulmer</name>
         </author>
-        <link href="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/seniors-day/index.html"/>
-        <id>file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/seniors-day/index.html</id>
-        <media:content url="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/6/Seniors-Day-Thumbnail.jpg" medium="image" />
+        <link href="https://codepoetmedia.github.io/codepoetmedia-website/seniors-day/"/>
+        <id>https://codepoetmedia.github.io/codepoetmedia-website/seniors-day/</id>
+        <media:content url="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/6/Seniors-Day-Thumbnail.jpg" medium="image" />
             <category term="The Coffee Café"/>
 
         <updated>2019-03-18T13:39:00-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/6/Seniors-Day-Thumbnail.jpg" alt="" />
+                        <img src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/6/Seniors-Day-Thumbnail.jpg" alt="" />
                     Steve comes up with an idea to start having a seniors’ day at the Coffee Cafe. The new clientele aren’t&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/6/Seniors-Day-Thumbnail.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/6/Seniors-Day-Thumbnail.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     Steve comes up with an idea to start having a seniors’ day at the Coffee Cafe. The new clientele aren’t what they expected though.
@@ -328,7 +328,7 @@
 
     <figure class="post__image post__image--center">
       <a href="https://filmfreeway.com/projects/1688531" target="_blank">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/6/viewonfilmfreeway.jpg" height="42" width="222" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/6/responsive/viewonfilmfreeway-xs.jpg 384w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/6/responsive/viewonfilmfreeway-sm.jpg 600w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/6/responsive/viewonfilmfreeway-md.jpg 768w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/6/responsive/viewonfilmfreeway-lg.jpg 1200w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/6/responsive/viewonfilmfreeway-xl.jpg 1600w">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/6/viewonfilmfreeway.jpg" height="42" width="222" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/6/responsive/viewonfilmfreeway-xs.jpg 384w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/6/responsive/viewonfilmfreeway-sm.jpg 600w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/6/responsive/viewonfilmfreeway-md.jpg 768w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/6/responsive/viewonfilmfreeway-lg.jpg 1200w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/6/responsive/viewonfilmfreeway-xl.jpg 1600w">
       </a>
       
     </figure>
@@ -345,18 +345,18 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/6/gallery/kent.jpg" data-size="220x200">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/6/gallery/kent-thumbnail.jpg" height="200" width="220" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/6/gallery/kent.jpg" data-size="220x200">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/6/gallery/kent-thumbnail.jpg" height="200" width="220" alt="" >
       </a>
       <figcaption>Steve [Kent Bulmer]</figcaption>
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/6/gallery/robyn.jpg" data-size="220x200">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/6/gallery/robyn-thumbnail.jpg" height="200" width="220" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/6/gallery/robyn.jpg" data-size="220x200">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/6/gallery/robyn-thumbnail.jpg" height="200" width="220" alt="" >
       </a>
       <figcaption>Various Voices [Robyn Bulmer]</figcaption>
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/6/gallery/roland.jpg" data-size="220x200">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/6/gallery/roland-thumbnail.jpg" height="200" width="220" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/6/gallery/roland.jpg" data-size="220x200">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/6/gallery/roland-thumbnail.jpg" height="200" width="220" alt="" >
       </a>
       <figcaption>Yves [Roland Savoie]</figcaption>
     </figure>
@@ -370,21 +370,21 @@
         <author>
             <name>Kent Bulmer</name>
         </author>
-        <link href="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/the-anti-confederate-albert-the-smasher/index.html"/>
-        <id>file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/the-anti-confederate-albert-the-smasher/index.html</id>
-        <media:content url="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/11/AlbertTheSmasher-digital-poster.jpg" medium="image" />
+        <link href="https://codepoetmedia.github.io/codepoetmedia-website/the-anti-confederate-albert-the-smasher/"/>
+        <id>https://codepoetmedia.github.io/codepoetmedia-website/the-anti-confederate-albert-the-smasher/</id>
+        <media:content url="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/11/AlbertTheSmasher-digital-poster.jpg" medium="image" />
             <category term="Animation"/>
 
         <updated>2018-04-05T17:43:00-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/11/AlbertTheSmasher-digital-poster.jpg" alt="" />
+                        <img src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/11/AlbertTheSmasher-digital-poster.jpg" alt="" />
                     A NEW PROJECT ABOUT NEW BRUNSWICK HISTORY In 1864, Albert James Smith was a successful New Brunswick lawyer and representative&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/11/AlbertTheSmasher-digital-poster.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/11/AlbertTheSmasher-digital-poster.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     <b>A NEW PROJECT ABOUT NEW BRUNSWICK HISTORY</b><br>In 1864, Albert James Smith was a successful New Brunswick lawyer and representative for Westmorland County. He didn’t think Confederation was such a good idea. Did you know he held it back for a year?
@@ -411,7 +411,7 @@
 
     <figure class="post__image post__image--center">
       <a href="https://filmfreeway.com/projects/1688536" target="_blank">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/11/viewonfilmfreeway.jpg" height="42" width="222" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/11/responsive/viewonfilmfreeway-xs.jpg 384w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/11/responsive/viewonfilmfreeway-sm.jpg 600w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/11/responsive/viewonfilmfreeway-md.jpg 768w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/11/responsive/viewonfilmfreeway-lg.jpg 1200w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/11/responsive/viewonfilmfreeway-xl.jpg 1600w">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/11/viewonfilmfreeway.jpg" height="42" width="222" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/11/responsive/viewonfilmfreeway-xs.jpg 384w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/11/responsive/viewonfilmfreeway-sm.jpg 600w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/11/responsive/viewonfilmfreeway-md.jpg 768w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/11/responsive/viewonfilmfreeway-lg.jpg 1200w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/11/responsive/viewonfilmfreeway-xl.jpg 1600w">
       </a>
       
     </figure>
@@ -428,33 +428,33 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/11/gallery/Sir-Albert-J-Smith-Copy.jpg" data-size="500x500">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/11/gallery/Sir-Albert-J-Smith-Copy-thumbnail.jpg" height="500" width="500" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/11/gallery/Sir-Albert-J-Smith-Copy.jpg" data-size="500x500">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/11/gallery/Sir-Albert-J-Smith-Copy-thumbnail.jpg" height="500" width="500" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/11/gallery/Arthur-Hamilton-Gordon.jpg" data-size="500x500">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/11/gallery/Arthur-Hamilton-Gordon-thumbnail.jpg" height="500" width="500" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/11/gallery/Arthur-Hamilton-Gordon.jpg" data-size="500x500">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/11/gallery/Arthur-Hamilton-Gordon-thumbnail.jpg" height="500" width="500" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/11/gallery/Sir-Samuel-Leonard-Tilley.jpg" data-size="500x500">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/11/gallery/Sir-Samuel-Leonard-Tilley-thumbnail.jpg" height="500" width="500" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/11/gallery/Sir-Samuel-Leonard-Tilley.jpg" data-size="500x500">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/11/gallery/Sir-Samuel-Leonard-Tilley-thumbnail.jpg" height="500" width="500" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/11/gallery/Sir-John-A-Macdonald.jpg" data-size="500x500">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/11/gallery/Sir-John-A-Macdonald-thumbnail.jpg" height="500" width="500" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/11/gallery/Sir-John-A-Macdonald.jpg" data-size="500x500">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/11/gallery/Sir-John-A-Macdonald-thumbnail.jpg" height="500" width="500" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/11/gallery/Sir-Georges-Etienne-Cartier.jpg" data-size="500x500">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/11/gallery/Sir-Georges-Etienne-Cartier-thumbnail.jpg" height="500" width="500" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/11/gallery/Sir-Georges-Etienne-Cartier.jpg" data-size="500x500">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/11/gallery/Sir-Georges-Etienne-Cartier-thumbnail.jpg" height="500" width="500" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/11/gallery/rhonda-savoie-book.jpg" data-size="1361x2048">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/11/gallery/rhonda-savoie-book-thumbnail.jpg" height="1156" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/11/gallery/rhonda-savoie-book.jpg" data-size="1361x2048">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/11/gallery/rhonda-savoie-book-thumbnail.jpg" height="1156" width="768" alt="" >
       </a>
       
     </figure>
@@ -468,21 +468,21 @@
         <author>
             <name>Kent Bulmer</name>
         </author>
-        <link href="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/french-kids-are-better-at-math/index.html"/>
-        <id>file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/french-kids-are-better-at-math/index.html</id>
-        <media:content url="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/7/vlcsnap-2025-09-30-21h43m21s193.png" medium="image" />
+        <link href="https://codepoetmedia.github.io/codepoetmedia-website/french-kids-are-better-at-math/"/>
+        <id>https://codepoetmedia.github.io/codepoetmedia-website/french-kids-are-better-at-math/</id>
+        <media:content url="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/7/vlcsnap-2025-09-30-21h43m21s193.png" medium="image" />
             <category term="The Coffee Café"/>
 
         <updated>2016-11-14T13:40:00-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/7/vlcsnap-2025-09-30-21h43m21s193.png" alt="" />
+                        <img src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/7/vlcsnap-2025-09-30-21h43m21s193.png" alt="" />
                     Steve wonders if saying numbers in French makes you better at math. This is our pilot episode of The Coffee&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/7/vlcsnap-2025-09-30-21h43m21s193.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/7/vlcsnap-2025-09-30-21h43m21s193.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     Steve wonders if saying numbers in French makes you better at math. This is our pilot episode of The Coffee Café!
@@ -500,18 +500,18 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/7/gallery/kent.jpg" data-size="220x200">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/7/gallery/kent-thumbnail.jpg" height="200" width="220" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/7/gallery/kent.jpg" data-size="220x200">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/7/gallery/kent-thumbnail.jpg" height="200" width="220" alt="" >
       </a>
       <figcaption>Steve [Kent Bulmer]</figcaption>
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/7/gallery/robyn.jpg" data-size="220x200">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/7/gallery/robyn-thumbnail.jpg" height="200" width="220" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/7/gallery/robyn.jpg" data-size="220x200">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/7/gallery/robyn-thumbnail.jpg" height="200" width="220" alt="" >
       </a>
       <figcaption>Various Voices [Robyn Bulmer]</figcaption>
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/7/gallery/roland.jpg" data-size="220x200">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/7/gallery/roland-thumbnail.jpg" height="200" width="220" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/7/gallery/roland.jpg" data-size="220x200">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/7/gallery/roland-thumbnail.jpg" height="200" width="220" alt="" >
       </a>
       <figcaption>Yves [Roland Savoie]</figcaption>
     </figure>
@@ -525,21 +525,21 @@
         <author>
             <name>Kent Bulmer</name>
         </author>
-        <link href="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/brussels-sprouts-for-breakfast/index.html"/>
-        <id>file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/brussels-sprouts-for-breakfast/index.html</id>
-        <media:content url="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/8/BSFB-Header-Image.jpg" medium="image" />
+        <link href="https://codepoetmedia.github.io/codepoetmedia-website/brussels-sprouts-for-breakfast/"/>
+        <id>https://codepoetmedia.github.io/codepoetmedia-website/brussels-sprouts-for-breakfast/</id>
+        <media:content url="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/BSFB-Header-Image.jpg" medium="image" />
             <category term="Books"/>
 
         <updated>2015-10-28T13:41:00-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/8/BSFB-Header-Image.jpg" alt="" />
+                        <img src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/BSFB-Header-Image.jpg" alt="" />
                     DO YOU LOVE THEM OR HATE THEM? In medieval Belgium, ogres were excellent farmers, and were the first to discover&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/8/BSFB-Header-Image.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/BSFB-Header-Image.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     <b>DO YOU LOVE THEM OR HATE THEM?
@@ -552,7 +552,7 @@
 
     <figure class="post__image post__image--center">
       <a href="https://www.amazon.ca/Brussels-Sprouts-Breakfast-Rhonda-Herrington/dp/0987741047/" target="_blank">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/viewonamazon.jpg" height="42" width="191" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/responsive/viewonamazon-xs.jpg 384w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/responsive/viewonamazon-sm.jpg 600w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/responsive/viewonamazon-md.jpg 768w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/responsive/viewonamazon-lg.jpg 1200w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/responsive/viewonamazon-xl.jpg 1600w">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/viewonamazon.jpg" height="42" width="191" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/responsive/viewonamazon-xs.jpg 384w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/responsive/viewonamazon-sm.jpg 600w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/responsive/viewonamazon-md.jpg 768w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/responsive/viewonamazon-lg.jpg 1200w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/responsive/viewonamazon-xl.jpg 1600w">
       </a>
       
     </figure>
@@ -569,58 +569,58 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/gallery/BSFB-Cover.jpg" data-size="1051x1360">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/gallery/BSFB-Cover-thumbnail.jpg" height="994" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/gallery/BSFB-Cover.jpg" data-size="1051x1360">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/gallery/BSFB-Cover-thumbnail.jpg" height="994" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/gallery/10333493_628300370596215_2356398937848044497_o-1024x828-1024x828-1.jpg" data-size="1024x828">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/gallery/10333493_628300370596215_2356398937848044497_o-1024x828-1024x828-1-thumbnail.jpg" height="621" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/gallery/10333493_628300370596215_2356398937848044497_o-1024x828-1024x828-1.jpg" data-size="1024x828">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/gallery/10333493_628300370596215_2356398937848044497_o-1024x828-1024x828-1-thumbnail.jpg" height="621" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/gallery/BSFB-Page-10.jpg" data-size="976x976">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/gallery/BSFB-Page-10-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/gallery/BSFB-Page-10.jpg" data-size="976x976">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/gallery/BSFB-Page-10-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/gallery/BSFB-Page-15.jpg" data-size="938x938">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/gallery/BSFB-Page-15-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/gallery/BSFB-Page-15.jpg" data-size="938x938">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/gallery/BSFB-Page-15-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/gallery/BSFB-Page-20.jpg" data-size="896x896">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/gallery/BSFB-Page-20-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/gallery/BSFB-Page-20.jpg" data-size="896x896">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/gallery/BSFB-Page-20-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/gallery/BSFB-Page-28.jpg" data-size="912x912">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/gallery/BSFB-Page-28-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/gallery/BSFB-Page-28.jpg" data-size="912x912">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/gallery/BSFB-Page-28-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/gallery/BSFB-Page-29.jpg" data-size="892x918">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/gallery/BSFB-Page-29-thumbnail.jpg" height="790" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/gallery/BSFB-Page-29.jpg" data-size="892x918">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/gallery/BSFB-Page-29-thumbnail.jpg" height="790" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/gallery/cavell01.jpg" data-size="1024x681">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/gallery/cavell01-thumbnail.jpg" height="511" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/gallery/cavell01.jpg" data-size="1024x681">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/gallery/cavell01-thumbnail.jpg" height="511" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/gallery/cavell02.jpg" data-size="1024x681">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/gallery/cavell02-thumbnail.jpg" height="511" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/gallery/cavell02.jpg" data-size="1024x681">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/gallery/cavell02-thumbnail.jpg" height="511" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/gallery/cavell03.jpg" data-size="1024x681">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/gallery/cavell03-thumbnail.jpg" height="511" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/gallery/cavell03.jpg" data-size="1024x681">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/gallery/cavell03-thumbnail.jpg" height="511" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/gallery/BSFB-Article-Smaller.jpg" data-size="1500x1333">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/8/gallery/BSFB-Article-Smaller-thumbnail.jpg" height="682" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/gallery/BSFB-Article-Smaller.jpg" data-size="1500x1333">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/8/gallery/BSFB-Article-Smaller-thumbnail.jpg" height="682" width="768" alt="" >
       </a>
       
     </figure>
@@ -634,21 +634,21 @@
         <author>
             <name>Kent Bulmer</name>
         </author>
-        <link href="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/please-let-me-in/index.html"/>
-        <id>file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/please-let-me-in/index.html</id>
-        <media:content url="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/9/1911032_598791616880424_1862679854_o.jpg" medium="image" />
+        <link href="https://codepoetmedia.github.io/codepoetmedia-website/please-let-me-in/"/>
+        <id>https://codepoetmedia.github.io/codepoetmedia-website/please-let-me-in/</id>
+        <media:content url="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/1911032_598791616880424_1862679854_o.jpg" medium="image" />
             <category term="Books"/>
 
         <updated>2015-03-12T13:42:00-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/9/1911032_598791616880424_1862679854_o.jpg" alt="" />
+                        <img src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/1911032_598791616880424_1862679854_o.jpg" alt="" />
                     HAVING TROUBLE CLIMBING THE WALL? Jill longs to make a home in the marvelous city of Adventus, where days are&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/9/1911032_598791616880424_1862679854_o.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/1911032_598791616880424_1862679854_o.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     <b>HAVING TROUBLE CLIMBING THE WALL?
@@ -659,7 +659,7 @@
 
     <figure class="post__image post__image--center">
       <a href="https://www.amazon.ca/Please-Let-Rhonda-Herrington-Bulmer/dp/0987741039" target="_blank">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/viewonamazon.jpg" height="42" width="191" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/responsive/viewonamazon-xs.jpg 384w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/responsive/viewonamazon-sm.jpg 600w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/responsive/viewonamazon-md.jpg 768w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/responsive/viewonamazon-lg.jpg 1200w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/responsive/viewonamazon-xl.jpg 1600w">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/viewonamazon.jpg" height="42" width="191" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/responsive/viewonamazon-xs.jpg 384w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/responsive/viewonamazon-sm.jpg 600w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/responsive/viewonamazon-md.jpg 768w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/responsive/viewonamazon-lg.jpg 1200w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/responsive/viewonamazon-xl.jpg 1600w">
       </a>
       
     </figure>
@@ -688,73 +688,73 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/PLMI-Cover.jpg" data-size="1051x1360">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/PLMI-Cover-thumbnail.jpg" height="994" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/PLMI-Cover.jpg" data-size="1051x1360">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/PLMI-Cover-thumbnail.jpg" height="994" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/plmi-jill.jpg" data-size="700x636">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/plmi-jill-thumbnail.jpg" height="636" width="700" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/plmi-jill.jpg" data-size="700x636">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/plmi-jill-thumbnail.jpg" height="636" width="700" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/plmi-back.jpg" data-size="624x603">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/plmi-back-thumbnail.jpg" height="603" width="624" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/plmi-back.jpg" data-size="624x603">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/plmi-back-thumbnail.jpg" height="603" width="624" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/DSC_0105.jpg" data-size="1000x665">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/DSC_0105-thumbnail.jpg" height="511" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/DSC_0105.jpg" data-size="1000x665">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/DSC_0105-thumbnail.jpg" height="511" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/DSC_0123.jpg" data-size="1000x665">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/DSC_0123-thumbnail.jpg" height="511" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/DSC_0123.jpg" data-size="1000x665">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/DSC_0123-thumbnail.jpg" height="511" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/DSC_0267-1024x680-1024x680-1.jpg" data-size="1024x680">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/DSC_0267-1024x680-1024x680-1-thumbnail.jpg" height="510" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/DSC_0267-1024x680-1024x680-1.jpg" data-size="1024x680">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/DSC_0267-1024x680-1024x680-1-thumbnail.jpg" height="510" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/DSC_0257-1024x680-1024x680-1.jpg" data-size="1024x680">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/DSC_0257-1024x680-1024x680-1-thumbnail.jpg" height="510" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/DSC_0257-1024x680-1024x680-1.jpg" data-size="1024x680">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/DSC_0257-1024x680-1024x680-1-thumbnail.jpg" height="510" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/DSC_0093.jpg" data-size="1000x665">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/DSC_0093-thumbnail.jpg" height="511" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/DSC_0093.jpg" data-size="1000x665">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/DSC_0093-thumbnail.jpg" height="511" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/DSC_0102.jpg" data-size="665x1000">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/DSC_0102-thumbnail.jpg" height="1000" width="665" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/DSC_0102.jpg" data-size="665x1000">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/DSC_0102-thumbnail.jpg" height="1000" width="665" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/DSC_0113.jpg" data-size="1000x665">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/DSC_0113-thumbnail.jpg" height="511" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/DSC_0113.jpg" data-size="1000x665">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/DSC_0113-thumbnail.jpg" height="511" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/DSC_0148.jpg" data-size="1000x665">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/DSC_0148-thumbnail.jpg" height="511" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/DSC_0148.jpg" data-size="1000x665">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/DSC_0148-thumbnail.jpg" height="511" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/plmi-headersmall.jpg" data-size="500x500">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/plmi-headersmall-thumbnail.jpg" height="500" width="500" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/plmi-headersmall.jpg" data-size="500x500">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/plmi-headersmall-thumbnail.jpg" height="500" width="500" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/plmi-process-1024x652-1024x652-1.jpg" data-size="1024x652">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/plmi-process-1024x652-1024x652-1-thumbnail.jpg" height="489" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/plmi-process-1024x652-1024x652-1.jpg" data-size="1024x652">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/plmi-process-1024x652-1024x652-1-thumbnail.jpg" height="489" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/poster-small-576x1024-576x1024-1.jpg" data-size="576x1024">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/9/gallery/poster-small-576x1024-576x1024-1-thumbnail.jpg" height="1024" width="576" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/poster-small-576x1024-576x1024-1.jpg" data-size="576x1024">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/9/gallery/poster-small-576x1024-576x1024-1-thumbnail.jpg" height="1024" width="576" alt="" >
       </a>
       
     </figure>
@@ -768,21 +768,21 @@
         <author>
             <name>Kent Bulmer</name>
         </author>
-        <link href="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/emmanuel-god-with-us/index.html"/>
-        <id>file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/emmanuel-god-with-us/index.html</id>
-        <media:content url="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/12/emmanuel-header.jpg" medium="image" />
+        <link href="https://codepoetmedia.github.io/codepoetmedia-website/emmanuel-god-with-us/"/>
+        <id>https://codepoetmedia.github.io/codepoetmedia-website/emmanuel-god-with-us/</id>
+        <media:content url="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/emmanuel-header.jpg" medium="image" />
             <category term="Stage"/>
 
         <updated>2012-12-15T13:43:00-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/12/emmanuel-header.jpg" alt="" />
+                        <img src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/emmanuel-header.jpg" alt="" />
                     REAL PEOPLE WITH REAL STORIES So the first Christmas was 2000 years ago…now what? When Jesus says in Matthew 28:19,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/12/emmanuel-header.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/emmanuel-header.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     <b>REAL PEOPLE WITH REAL STORIES</b><br>So the first Christmas was 2000 years ago…now what?
@@ -794,7 +794,7 @@
 
     <figure class="post__image post__image--center">
       <a href="https://www.amazon.ca/Emmanuel-God-With-Us/dp/B00C7CKHBQ" target="_blank">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/12/viewonamazon.jpg" height="42" width="191" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/12/responsive/viewonamazon-xs.jpg 384w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/12/responsive/viewonamazon-sm.jpg 600w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/12/responsive/viewonamazon-md.jpg 768w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/12/responsive/viewonamazon-lg.jpg 1200w ,file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/12/responsive/viewonamazon-xl.jpg 1600w">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/viewonamazon.jpg" height="42" width="191" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/responsive/viewonamazon-xs.jpg 384w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/responsive/viewonamazon-sm.jpg 600w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/responsive/viewonamazon-md.jpg 768w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/responsive/viewonamazon-lg.jpg 1200w ,https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/responsive/viewonamazon-xl.jpg 1600w">
       </a>
       
     </figure>
@@ -810,48 +810,48 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/12/gallery/IMG_8357-1024x682-1024x682-1.jpg" data-size="1024x682">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/12/gallery/IMG_8357-1024x682-1024x682-1-thumbnail.jpg" height="512" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/gallery/IMG_8357-1024x682-1024x682-1.jpg" data-size="1024x682">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/gallery/IMG_8357-1024x682-1024x682-1-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/12/gallery/IMG_8369-819x1024-819x1024-1.jpg" data-size="819x1024">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/12/gallery/IMG_8369-819x1024-819x1024-1-thumbnail.jpg" height="960" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/gallery/IMG_8369-819x1024-819x1024-1.jpg" data-size="819x1024">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/gallery/IMG_8369-819x1024-819x1024-1-thumbnail.jpg" height="960" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/12/gallery/IMG_8395-1024x682-1024x682-1.jpg" data-size="1024x682">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/12/gallery/IMG_8395-1024x682-1024x682-1-thumbnail.jpg" height="512" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/gallery/IMG_8395-1024x682-1024x682-1.jpg" data-size="1024x682">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/gallery/IMG_8395-1024x682-1024x682-1-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/12/gallery/IMG_8401-1024x682-1024x682-1.jpg" data-size="1024x682">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/12/gallery/IMG_8401-1024x682-1024x682-1-thumbnail.jpg" height="512" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/gallery/IMG_8401-1024x682-1024x682-1.jpg" data-size="1024x682">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/gallery/IMG_8401-1024x682-1024x682-1-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/12/gallery/IMG_8430-1024x682-1024x682-1.jpg" data-size="1024x682">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/12/gallery/IMG_8430-1024x682-1024x682-1-thumbnail.jpg" height="512" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/gallery/IMG_8430-1024x682-1024x682-1.jpg" data-size="1024x682">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/gallery/IMG_8430-1024x682-1024x682-1-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/12/gallery/IMG_8431-1024x819-1024x819-1.jpg" data-size="1024x819">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/12/gallery/IMG_8431-1024x819-1024x819-1-thumbnail.jpg" height="614" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/gallery/IMG_8431-1024x819-1024x819-1.jpg" data-size="1024x819">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/gallery/IMG_8431-1024x819-1024x819-1-thumbnail.jpg" height="614" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/12/gallery/IMG_8456-1024x818-1024x818-1.jpg" data-size="1024x818">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/12/gallery/IMG_8456-1024x818-1024x818-1-thumbnail.jpg" height="614" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/gallery/IMG_8456-1024x818-1024x818-1.jpg" data-size="1024x818">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/gallery/IMG_8456-1024x818-1024x818-1-thumbnail.jpg" height="614" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/12/gallery/IMG_8508-1024x682-1024x682-1.jpg" data-size="1024x682">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/12/gallery/IMG_8508-1024x682-1024x682-1-thumbnail.jpg" height="512" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/gallery/IMG_8508-1024x682-1024x682-1.jpg" data-size="1024x682">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/gallery/IMG_8508-1024x682-1024x682-1-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/12/gallery/IMG_8306515f115e1cea4-1024x682-1024x682-1.jpg" data-size="1024x682">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/12/gallery/IMG_8306515f115e1cea4-1024x682-1024x682-1-thumbnail.jpg" height="512" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/gallery/IMG_8306515f115e1cea4-1024x682-1024x682-1.jpg" data-size="1024x682">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/12/gallery/IMG_8306515f115e1cea4-1024x682-1024x682-1-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure>
@@ -865,21 +865,21 @@
         <author>
             <name>Kent Bulmer</name>
         </author>
-        <link href="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/believe/index.html"/>
-        <id>file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/believe/index.html</id>
-        <media:content url="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/13/believe-header.jpg" medium="image" />
+        <link href="https://codepoetmedia.github.io/codepoetmedia-website/believe/"/>
+        <id>https://codepoetmedia.github.io/codepoetmedia-website/believe/</id>
+        <media:content url="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/13/believe-header.jpg" medium="image" />
             <category term="Stage"/>
 
         <updated>2011-12-15T13:44:00-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/13/believe-header.jpg" alt="" />
+                        <img src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/13/believe-header.jpg" alt="" />
                     A BIBLE-RESEARCHED CHRISTMAS PRODUCTION Believe is a one-hour, three-act Christmas play that is a fictional depiction of the life of&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="file:///C:\Users\kentb\OneDrive\Documents\Publii\sites\codepoetmediacom\preview/media/posts/13/believe-header.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/13/believe-header.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     <b>A BIBLE-RESEARCHED CHRISTMAS PRODUCTION</b><br>Believe is a one-hour, three-act Christmas play that is a fictional depiction of the life of Simeon, a character featured in the New Testament’s gospel of Luke.
@@ -902,43 +902,43 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/13/gallery/Nativity-Experience-2011-1-1024x682-1024x682-1.jpeg" data-size="1024x682">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/13/gallery/Nativity-Experience-2011-1-1024x682-1024x682-1-thumbnail.jpeg" height="512" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/13/gallery/Nativity-Experience-2011-1-1024x682-1024x682-1.jpeg" data-size="1024x682">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/13/gallery/Nativity-Experience-2011-1-1024x682-1024x682-1-thumbnail.jpeg" height="512" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/13/gallery/Nativity-Experience-2011-2-683x1024-683x1024-1.jpeg" data-size="683x1024">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/13/gallery/Nativity-Experience-2011-2-683x1024-683x1024-1-thumbnail.jpeg" height="1024" width="683" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/13/gallery/Nativity-Experience-2011-2-683x1024-683x1024-1.jpeg" data-size="683x1024">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/13/gallery/Nativity-Experience-2011-2-683x1024-683x1024-1-thumbnail.jpeg" height="1024" width="683" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/13/gallery/Nativity-Experience-2011-3-1024x683-1024x683-1.jpeg" data-size="1024x683">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/13/gallery/Nativity-Experience-2011-3-1024x683-1024x683-1-thumbnail.jpeg" height="512" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/13/gallery/Nativity-Experience-2011-3-1024x683-1024x683-1.jpeg" data-size="1024x683">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/13/gallery/Nativity-Experience-2011-3-1024x683-1024x683-1-thumbnail.jpeg" height="512" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/13/gallery/Nativity-Experience-2011-4-683x1024-683x1024-1.jpeg" data-size="683x1024">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/13/gallery/Nativity-Experience-2011-4-683x1024-683x1024-1-thumbnail.jpeg" height="1024" width="683" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/13/gallery/Nativity-Experience-2011-4-683x1024-683x1024-1.jpeg" data-size="683x1024">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/13/gallery/Nativity-Experience-2011-4-683x1024-683x1024-1-thumbnail.jpeg" height="1024" width="683" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/13/gallery/Nativity-Experience-2011-5-1024x682-1024x682-1.jpeg" data-size="1024x682">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/13/gallery/Nativity-Experience-2011-5-1024x682-1024x682-1-thumbnail.jpeg" height="512" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/13/gallery/Nativity-Experience-2011-5-1024x682-1024x682-1.jpeg" data-size="1024x682">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/13/gallery/Nativity-Experience-2011-5-1024x682-1024x682-1-thumbnail.jpeg" height="512" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/13/gallery/Nativity-Experience-2011-6-1024x682-1024x682-1.jpeg" data-size="1024x682">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/13/gallery/Nativity-Experience-2011-6-1024x682-1024x682-1-thumbnail.jpeg" height="512" width="768" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/13/gallery/Nativity-Experience-2011-6-1024x682-1024x682-1.jpeg" data-size="1024x682">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/13/gallery/Nativity-Experience-2011-6-1024x682-1024x682-1-thumbnail.jpeg" height="512" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/13/gallery/Nativity-Experience-2011-7-683x1024-683x1024-1.jpeg" data-size="683x1024">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/13/gallery/Nativity-Experience-2011-7-683x1024-683x1024-1-thumbnail.jpeg" height="1024" width="683" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/13/gallery/Nativity-Experience-2011-7-683x1024-683x1024-1.jpeg" data-size="683x1024">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/13/gallery/Nativity-Experience-2011-7-683x1024-683x1024-1-thumbnail.jpeg" height="1024" width="683" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/13/gallery/Nativity-Experience-2011-8.jpeg" data-size="582x873">
-        <img loading="lazy" src="file:///C:/Users/kentb/OneDrive/Documents/Publii/sites/codepoetmediacom/preview/media/posts/13/gallery/Nativity-Experience-2011-8-thumbnail.jpeg" height="873" width="582" alt="" >
+      <a href="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/13/gallery/Nativity-Experience-2011-8.jpeg" data-size="582x873">
+        <img loading="lazy" src="https://codepoetmedia.github.io/codepoetmedia-website/media/posts/13/gallery/Nativity-Experience-2011-8-thumbnail.jpeg" height="873" width="582" alt="" >
       </a>
       
     </figure>
