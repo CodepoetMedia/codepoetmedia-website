@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "3aa1b6575e9e1b663877f0e0439196e2"
+        "md5": "8e6cb95414ae90ad0e74f84fbdf2d659"
     },
     {
         "path": "about-us",
@@ -12,7 +12,7 @@
     {
         "path": "/about-us/index.html",
         "type": "file",
-        "md5": "6e1711790b52214445c55f01e81a596c"
+        "md5": "badfb6190b55d22b5bf5c5e9881e516d"
     },
     {
         "path": "assets",
@@ -92,7 +92,7 @@
     {
         "path": "/authors/kent-bulmer/index.html",
         "type": "file",
-        "md5": "670634366e197fef444f219e1b66ddce"
+        "md5": "5137868b2907ea8a193fbb3e4a49b823"
     },
     {
         "path": "authors/kent-bulmer/page",
@@ -107,7 +107,7 @@
     {
         "path": "/authors/kent-bulmer/page/2/index.html",
         "type": "file",
-        "md5": "4789bf5ac35903476f3b31f3dd4e72f4"
+        "md5": "36d952f001ed37771be1defc74349698"
     },
     {
         "path": "believe",
@@ -117,7 +117,7 @@
     {
         "path": "/believe/index.html",
         "type": "file",
-        "md5": "8cc5e38110abab63eaeac8603ea935ef"
+        "md5": "80b814f89c761838126d1e878c529df9"
     },
     {
         "path": "brussels-sprouts-for-breakfast",
@@ -127,7 +127,7 @@
     {
         "path": "/brussels-sprouts-for-breakfast/index.html",
         "type": "file",
-        "md5": "2f14325dfe66e482205621524cc7143b"
+        "md5": "bfafc97dfe277f4082e988a8cdcd9c85"
     },
     {
         "path": "codepoet-media",
@@ -137,7 +137,7 @@
     {
         "path": "/codepoet-media/index.html",
         "type": "file",
-        "md5": "f963a4689ccc911a873823d27993bf2b"
+        "md5": "90c552cdfb3ed66516a0a0ab8d3fcf51"
     },
     {
         "path": "emmanuel-god-with-us",
@@ -147,7 +147,7 @@
     {
         "path": "/emmanuel-god-with-us/index.html",
         "type": "file",
-        "md5": "0a4023b17d02d9ad0b4a168408b70ff2"
+        "md5": "fab78e50a0195be0c0177051df65e63b"
     },
     {
         "path": "french-kids-are-better-at-math",
@@ -157,12 +157,12 @@
     {
         "path": "/french-kids-are-better-at-math/index.html",
         "type": "file",
-        "md5": "d0f41e73707ade8e09c389526854b33b"
+        "md5": "943fb73a25a44f00dd0ded5b6e9cac4a"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "6094bc428e6041cdca06f57cee26102d"
+        "md5": "39de500759b4c11073f5a4a0984c5e2e"
     },
     {
         "path": "media",
@@ -2152,7 +2152,7 @@
     {
         "path": "/on-location-with-scotty-and-tony/index.html",
         "type": "file",
-        "md5": "0a5d67a226096e0c9d63137899a9eb75"
+        "md5": "8a3d04a7d65e138d07e09131971651f9"
     },
     {
         "path": "page",
@@ -2167,7 +2167,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "97ec90d3ed7272c6b2cb372f45e35f22"
+        "md5": "801d698158e89204e64044eae1d5d72e"
     },
     {
         "path": "please-let-me-in",
@@ -2177,7 +2177,7 @@
     {
         "path": "/please-let-me-in/index.html",
         "type": "file",
-        "md5": "2d30535c17fdeee817cffbe554542fc8"
+        "md5": "4f7969757776db447481b75b33c01a9d"
     },
     {
         "path": "rachels-manifesto",
@@ -2187,7 +2187,7 @@
     {
         "path": "/rachels-manifesto/index.html",
         "type": "file",
-        "md5": "2a065215255476cbdde8f3556b41e881"
+        "md5": "f87748562c45327aeea3a2bf86261735"
     },
     {
         "path": "robots.txt",
@@ -2202,7 +2202,7 @@
     {
         "path": "/seniors-day/index.html",
         "type": "file",
-        "md5": "3e86c01ad71a166ddc6be562f35ebda7"
+        "md5": "d606251dda11d673a5cd5be107bd8666"
     },
     {
         "path": "tags",
@@ -2217,7 +2217,7 @@
     {
         "path": "/tags/animation/index.html",
         "type": "file",
-        "md5": "850642214b32e6bd450c523532890645"
+        "md5": "c8bb8b9a13702f0b7e3f689b91776e0d"
     },
     {
         "path": "tags/books",
@@ -2227,12 +2227,12 @@
     {
         "path": "/tags/books/index.html",
         "type": "file",
-        "md5": "d9871e69eadb33e6bca279928cc21453"
+        "md5": "0906b5415cc03f30bb65ddc4b8b9d281"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "9cab9aa90142fbf468cfb013c127ca0c"
+        "md5": "f7d63af0e10d435c33643076fbb2ceba"
     },
     {
         "path": "tags/stage",
@@ -2242,7 +2242,7 @@
     {
         "path": "/tags/stage/index.html",
         "type": "file",
-        "md5": "653cb82f0103658ab8fb6dc877f9ab1a"
+        "md5": "9ef27dc917a19c6ee735f5e527633e7f"
     },
     {
         "path": "tags/the-coffee-cafe",
@@ -2252,7 +2252,7 @@
     {
         "path": "/tags/the-coffee-cafe/index.html",
         "type": "file",
-        "md5": "b0fc97f417de4b742ef533f6396c219e"
+        "md5": "c5754f1002c00e9534918f2c95e37f1a"
     },
     {
         "path": "thanks-for-coming",
@@ -2262,7 +2262,7 @@
     {
         "path": "/thanks-for-coming/index.html",
         "type": "file",
-        "md5": "b9c510f11ddc4c79d5502d9d1b606d97"
+        "md5": "a8b6f3d9bc00b04bab0b745b2e2573aa"
     },
     {
         "path": "the-anti-confederate-albert-the-smasher",
@@ -2272,7 +2272,7 @@
     {
         "path": "/the-anti-confederate-albert-the-smasher/index.html",
         "type": "file",
-        "md5": "4b82c88910c7a4adccb21891403465c3"
+        "md5": "de92388eb6531056fe9c5f8c256d9337"
     },
     {
         "path": "the-red-hat-session",
@@ -2282,6 +2282,6 @@
     {
         "path": "/the-red-hat-session/index.html",
         "type": "file",
-        "md5": "ecbaf4c47fef26a034d252d789be900b"
+        "md5": "d5eb402bd2f6f43623804eea8c0a802b"
     }
 ]
